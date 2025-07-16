@@ -1,1 +1,1 @@
-# Tourist-management-system
+# Tourism-Management-System
